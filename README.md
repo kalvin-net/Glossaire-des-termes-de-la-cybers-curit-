@@ -31,6 +31,54 @@ L'idée derrière la kill chain est que si vous pouvez identifier et perturber u
 
 **Exemple :** Vous pouvez mettre en place des contrôles de sécurité pour empêcher la reconnaissance, ou vous pouvez déployer des systèmes de détection d'intrusion pour identifier et bloquer les tentatives d'accès non autorisé.
 
+## Pentest
+
+### Black Box
+Test de pénétration où l'attaquant n'a aucune information préalable sur l'infrastructure cible.
+
+**Exemple :** Une entreprise engage un pentesteur pour simuler une attaque externe sans fournir de détails sur son réseau.
+
+### Grey Box
+Test de pénétration où l'attaquant dispose de certaines informations limitées sur l'infrastructure cible.
+
+**Exemple :** Le pentesteur reçoit des informations sur le réseau interne de l'entreprise, mais pas les détails complets.
+
+### White Box
+Test de pénétration où l'attaquant a un accès complet aux informations sur l'infrastructure cible.
+
+**Exemple :** Le pentesteur a accès aux schémas de réseau, aux configurations des serveurs, et au code source des applications.
+
+## Social Engineering
+
+### Tailgating / Piggybacking
+Technique où un attaquant suit une personne autorisée pour accéder à une zone sécurisée sans avoir de badge ou d'identification.
+
+**Exemple :** Un intrus suit un employé dans un bâtiment sécurisé en maintenant la porte ouverte.
+
+### Quid Pro Quo
+Technique où l'attaquant offre un service ou un avantage en échange d'informations ou d'accès.
+
+**Exemple :** Un attaquant se fait passer pour un technicien informatique offrant une aide en échange de mots de passe.
+
+### OSINT (Open Source Intelligence)
+Collecte d’informations disponibles publiquement pour effectuer des attaques ciblées.
+
+**Exemple :** Utilisation des réseaux sociaux pour obtenir des informations sur les employés d'une entreprise.
+
+### Red Team
+Équipe de sécurité offensive simulant des attaques réelles pour tester la défense d'une organisation.
+
+**Exemple :** Une Red Team réalise une campagne de phishing pour évaluer la réaction des employés.
+
+### Dumpster Diving
+Recherche de données sensibles dans les poubelles ou les zones de déchets.
+
+**Exemple :** Un attaquant fouille les poubelles d'une entreprise pour trouver des documents jetés contenant des informations confidentielles.
+
+### Impersonation
+Technique où l'attaquant se fait passer pour une personne de confiance pour obtenir des informations ou accéder à des ressources.
+
+**Exemple :** Un attaquant se fait passer pour un employé de la maintenance pour accéder à des zones sécurisées.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kalin-net)  
