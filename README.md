@@ -296,7 +296,7 @@ Responsable de la protection des données au sein d'une organisation, garantissa
 
 Exemple : Un DPO veille à ce que l'entreprise respecte le RGPD et protège les données personnelles des clients.
 
-## ☁️ Sécurité Cloud
+## ☁️ 🎯 Sécurité Cloud
 
 ### Cloud Access Security Brokers (CASB)
 Solutions de sécurité placées entre les utilisateurs et les services cloud pour appliquer les politiques de sécurité de l'entreprise.
@@ -340,7 +340,7 @@ Processus de chiffrement des données stockées et transmises par les appareils 
 
 Exemple : Utilisation de chiffrement de bout en bout pour les messages envoyés via une application de messagerie mobile.
 
-## Sécurité des identités et des accès (IAM) 🔒
+## 🎯 Sécurité des identités et des accès (IAM) 🔒
 
 ### Authentification / Autorisation
 Processus de vérification de l'identité d'un utilisateur (authentification) et de détermination de ses droits d'accès (autorisation).
@@ -362,7 +362,7 @@ Contrôle des droits d'accès des utilisateurs pour garantir qu'ils ont uniqueme
 
 Exemple : Utilisation de solutions comme CyberArk pour gérer et contrôler les accès privilégiés dans une organisation.
 
-## Sécurité Opérationnelle 🔒
+## 🎯 Sécurité Opérationnelle 🔒
 
 ### Surveillance et Journalisation des Activités
 Processus de suivi et d'enregistrement des activités des utilisateurs et des systèmes pour détecter des comportements anormaux ou suspects.
@@ -414,7 +414,7 @@ Processus de déconstruction d'un logiciel ou d'un matériel pour comprendre son
 
 Exemple : Utilisation d'outils comme IDA Pro pour disséquer un virus informatique et comprendre son mode de fonctionnement.
 
-## Sécurité des Infrastructures critiques 🔒
+## 🎯 Sécurité des Infrastructures critiques 🔒
 
 ### Supervisory Control and Data Acquisition (SCADA)
 Systèmes de contrôle utilisés pour superviser et gérer des infrastructures industrielles critiques comme les réseaux électriques et les usines de traitement de l'eau.
@@ -453,7 +453,7 @@ Centre dédié à la surveillance et à la gestion continue des incidents de sé
 
 Exemple : Un SOC surveillant 24/7 les activités réseau et les journaux de sécurité pour détecter et répondre rapidement aux menaces.
 
-## Gestion des risques 🔒
+## 🎯 Gestion des risques 🔒
 
 ### Gestion des risques
 Processus d'identification, d'évaluation et de traitement des risques pour minimiser leur impact sur l'organisation.
@@ -520,7 +520,7 @@ Stratégie pour restaurer les systèmes et les opérations après un incident, s
 
 Exemple : Un PRA détaille les étapes pour restaurer les services informatiques après une cyberattaque.
 
-## Concepts 🔒
+## 🎯 Concepts 🔒
 
 ### Hardening
 Processus de sécurisation d'un système en réduisant sa surface d'attaque et en éliminant les vulnérabilités.
@@ -577,7 +577,7 @@ Activité de surveillance continue pour détecter et analyser les nouvelles mena
 
 Exemple : Une équipe de sécurité effectue une veille quotidienne en consultant des sources de threat intelligence et des forums de sécurité.
 
-## Cyberattaques 🔒
+## 🎯 Cyberattaques 🔒
 
 ### Attaques basées sur les logiciels malveillants
 
@@ -616,7 +616,7 @@ Ensemble de logiciels malveillants qui permettent un accès non autorisé à un 
 
 Exemple : Un rootkit qui se cache dans le système d'exploitation pour éviter la détection par les logiciels de sécurité.
 
-## Cyberattaques 🔒
+## 🎯 Cyberattaques 🔒
 
 ### Attaques de Phishing et d'ingénierie Sociale
 
@@ -675,9 +675,7 @@ Technique de manipulation où une entreprise ou une organisation crée de faux m
 
 Exemple : Une entreprise créant de faux comptes de réseaux sociaux pour promouvoir positivement ses produits et services.
 
-## Cyberattaques 🔒
-
-### Attaques par le réseau
+### 🎯 Attaques par le réseau 🔒
 
 #### Man in the Middle / MitM
 Attaque où l'attaquant intercepte et éventuellement modifie les communications entre deux parties sans leur connaissance.
@@ -727,9 +725,7 @@ Technique pour contourner les contrôles d'accès réseau (Network Access Contro
 
 Exemple : Utiliser une adresse MAC autorisée pour obtenir un accès réseau non autorisé.
 
-## Cyberattaques 🔒
-
-### Attaques sur les applications Web
+### 🎯 Attaques sur les applications Web 🔒
 
 #### SQL Injection
 Attaque où des commandes SQL malveillantes sont insérées dans les entrées d'une application pour manipuler la base de données.
@@ -781,9 +777,7 @@ Attaque où l'attaquant accède à des objets (fichiers, données) sans autorisa
 
 Exemple : Modifier l'URL de `/profile?id=123` à `/profile?id=124` pour accéder au profil d'un autre utilisateur.
 
-## Cyberattaques 🔒
-
-### Attaques sur les Systèmes
+### 🎯 Attaques sur les Systèmes 🔒
 
 #### Brute Force
 Attaque où l'attaquant essaie toutes les combinaisons possibles de mots de passe jusqu'à trouver le bon.
@@ -825,9 +819,7 @@ Attaque où l'attaquant modifie le contenu visuel d'un site web pour afficher de
 
 Exemple : Remplacer la page d'accueil d'un site web par un message politique ou de revendication.
 
-## Cyberattaques 🔒
-
-### Attaques physiques / Attaques sur le matériel
+### 🎯 Attaques physiques / Attaques sur le matériel 🔒
 
 #### Tampering
 Manipulation physique ou modification d'un appareil pour compromettre sa sécurité.
@@ -883,9 +875,7 @@ Attaque où l'attaquant compromet un fournisseur ou un partenaire pour atteindre
 
 Exemple : Infection d'un logiciel de mise à jour d'un fournisseur de logiciels, comme l'attaque sur SolarWinds Orion, qui a conduit à la compromission de nombreuses entreprises et agences gouvernementales.
 
-# Glossaire de la Cybercriminalité et de la Sécurité Informatique
-
-## Les réseaux 🌐
+## 🎯 Les réseaux 🌐
 
 ### Darknet
 Partie d'internet non indexée par les moteurs de recherche traditionnels, nécessitant des logiciels spécifiques pour y accéder.
@@ -922,7 +912,7 @@ Cryptomonnaies, Monero se distinguant par son anonymat et la confidentialité de
 
 Exemple : Utiliser Monero pour des transactions anonymes sur des marchés du Darknet.
 
-## Types de Hackers 🎩
+## 🎯 Types de Hackers 🎩
 
 ### Black / Grey / White Hats
 Catégorisation des hackers selon leurs intentions :
@@ -976,9 +966,7 @@ Disparition soudaine des administrateurs d'un marché du Darknet avec les fonds 
 
 Exemple : Fermeture inattendue d'un marché de drogues sur le Darknet.
 
-# OSINT (Open Source Intelligence)
-
-## Introduction 🌐
+# 🎯 OSINT (Open Source Intelligence)🌐
 
 ### OSINT (Open Source Intelligence)
 Collecte et analyse d'informations provenant de sources accessibles au public pour des fins de renseignement.
@@ -1005,7 +993,7 @@ Analyse et interprétation de données géospatiales pour obtenir des renseignem
 
 Exemple : Analyser des cartes et des images géospatiales pour planifier des opérations militaires ou de secours en cas de catastrophe.
 
-## Techniques et Outils 🔍
+## 🎯 Techniques et Outils 🔍
 
 ### Scraping
 Technique d'extraction automatisée de données à partir de sites web.
@@ -1037,9 +1025,7 @@ Ajout de données géographiques (latitude et longitude) à des fichiers multim�
 
 Exemple : Une photo prise avec un smartphone inclut automatiquement les coordonnées GPS du lieu où elle a été prise.
 
-# Les Outils de Cybersécurité 🔒
-
-## Introduction 🛠️
+# 🎯 Les Outils de Cybersécurité 🔒🛠️
 
 ### Nmap
 Outil de balayage de réseau et de sécurité pour découvrir des hôtes et des services sur un réseau informatique.
