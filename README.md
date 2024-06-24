@@ -97,8 +97,6 @@ Exemple : Exploitation d'une faille dans une application web pour exécuter des 
 
 ## 🎯 Phases d’attaque
 
-![Phases d'attaque](images/phases_attaque.png)
-
 ![Phases d’attaque](https://github.com/kalvin-net/Glossaire-des-termes-de-la-cybers-curit-/assets/172443217/62b7fc29-add5-4dea-81b8-89912d5d687e)
 
 ### Reconnaissance
