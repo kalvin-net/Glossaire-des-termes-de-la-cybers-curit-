@@ -220,7 +220,7 @@ Technique d'exécution de programmes dans un environnement isolé pour prévenir
 
 Exemple : Analyse d'un fichier suspect dans une sandbox pour détecter les comportements malveillants.
 
-### Sécurité réseau
+### 🎯 Sécurité réseau
 
 #### Intrusion Detection Systems (IDS)
 Systèmes qui surveillent le réseau pour détecter les activités suspectes ou malveillantes.
