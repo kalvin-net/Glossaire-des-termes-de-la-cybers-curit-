@@ -77,9 +77,8 @@ Technique où l'attaquant se fait passer pour une personne de confiance pour obt
 
 Exemple : Un attaquant se fait passer pour un employé de la maintenance pour accéder à des zones sécurisées.
 
-# Glossaire de Cybersécurité 🔒
 
-## 🛠️ Techniques d’Exploitation
+## 🛠️ Techniques d’Exploitation🔒
 
 ### Buffer Overflow
 Vulnérabilité où un programme écrit plus de données dans un tampon que ce qu'il peut contenir, permettant l'exécution de code malveillant.
@@ -125,9 +124,7 @@ Effacement des traces de l'attaque pour éviter la détection.
 
 Exemple : Suppression des journaux système pour masquer les activités malveillantes.
 
-# Glossaire de Cybersécurité 🔒
-
-## 🧑‍💻 Concepts
+## 🧑‍💻 Concepts 🔒
 
 ### Hacker
 Individu qui utilise ses compétences techniques pour accéder aux systèmes informatiques. Il peut être éthique (White Hat) ou malveillant (Black Hat).
@@ -179,9 +176,7 @@ Code écrit pour être exécuté dans le contexte d'une shell ou d'un autre envi
 
 Exemple : Utilisation de shellcode pour ouvrir une porte dérobée sur un système compromis.
 
-# Glossaire de Cybersécurité 🔒
-
-## 🛡️ Sécurité Défensive
+## 🛡️ Sécurité Défensive 🔒
 
 ### Sécurité Systèmes / Endpoint / Hôtes
 
@@ -257,8 +252,6 @@ Zone réseau où sont placés les services accessibles depuis l'extérieur, tout
 
 Exemple : Héberger des serveurs web dans une DMZ pour protéger le réseau interne contre les attaques directes.
 
-# Glossaire de Cybersécurité 🔒
-
 ## 🔐 Sécurité des applications
 
 ### Secure Software Development Lifecycle (SDLC)
@@ -302,8 +295,6 @@ Exemple : Utilisation de TLS pour sécuriser les communications et de chiffremen
 Responsable de la protection des données au sein d'une organisation, garantissant la conformité avec les réglementations de protection des données.
 
 Exemple : Un DPO veille à ce que l'entreprise respecte le RGPD et protège les données personnelles des clients.
-
-# Glossaire de Cybersécurité 🔒
 
 ## ☁️ Sécurité Cloud
 
@@ -349,9 +340,7 @@ Processus de chiffrement des données stockées et transmises par les appareils 
 
 Exemple : Utilisation de chiffrement de bout en bout pour les messages envoyés via une application de messagerie mobile.
 
-# Glossaire de Cybersécurité 🔒
-
-## Sécurité des identités et des accès (IAM)
+## Sécurité des identités et des accès (IAM) 🔒
 
 ### Authentification / Autorisation
 Processus de vérification de l'identité d'un utilisateur (authentification) et de détermination de ses droits d'accès (autorisation).
@@ -373,9 +362,7 @@ Contrôle des droits d'accès des utilisateurs pour garantir qu'ils ont uniqueme
 
 Exemple : Utilisation de solutions comme CyberArk pour gérer et contrôler les accès privilégiés dans une organisation.
 
-# Glossaire de Cybersécurité 🔒
-
-## Sécurité Opérationnelle
+## Sécurité Opérationnelle 🔒
 
 ### Surveillance et Journalisation des Activités
 Processus de suivi et d'enregistrement des activités des utilisateurs et des systèmes pour détecter des comportements anormaux ou suspects.
@@ -427,9 +414,7 @@ Processus de déconstruction d'un logiciel ou d'un matériel pour comprendre son
 
 Exemple : Utilisation d'outils comme IDA Pro pour disséquer un virus informatique et comprendre son mode de fonctionnement.
 
-# Glossaire de Cybersécurité 🔒
-
-## Sécurité des Infrastructures critiques
+## Sécurité des Infrastructures critiques 🔒
 
 ### Supervisory Control and Data Acquisition (SCADA)
 Systèmes de contrôle utilisés pour superviser et gérer des infrastructures industrielles critiques comme les réseaux électriques et les usines de traitement de l'eau.
@@ -468,9 +453,7 @@ Centre dédié à la surveillance et à la gestion continue des incidents de sé
 
 Exemple : Un SOC surveillant 24/7 les activités réseau et les journaux de sécurité pour détecter et répondre rapidement aux menaces.
 
-# Glossaire de Cybersécurité 🔒
-
-## Gestion des risques
+## Gestion des risques 🔒
 
 ### Gestion des risques
 Processus d'identification, d'évaluation et de traitement des risques pour minimiser leur impact sur l'organisation.
@@ -537,9 +520,7 @@ Stratégie pour restaurer les systèmes et les opérations après un incident, s
 
 Exemple : Un PRA détaille les étapes pour restaurer les services informatiques après une cyberattaque.
 
-# Glossaire de Cybersécurité 🔒
-
-## Concepts
+## Concepts 🔒
 
 ### Hardening
 Processus de sécurisation d'un système en réduisant sa surface d'attaque et en éliminant les vulnérabilités.
@@ -596,9 +577,7 @@ Activité de surveillance continue pour détecter et analyser les nouvelles mena
 
 Exemple : Une équipe de sécurité effectue une veille quotidienne en consultant des sources de threat intelligence et des forums de sécurité.
 
-# Glossaire de Cybersécurité 🔒
-
-## Cyberattaques
+## Cyberattaques 🔒
 
 ### Attaques basées sur les logiciels malveillants
 
@@ -637,9 +616,7 @@ Ensemble de logiciels malveillants qui permettent un accès non autorisé à un 
 
 Exemple : Un rootkit qui se cache dans le système d'exploitation pour éviter la détection par les logiciels de sécurité.
 
-# Glossaire de Cybersécurité 🔒
-
-## Cyberattaques
+## Cyberattaques 🔒
 
 ### Attaques de Phishing et d'ingénierie Sociale
 
@@ -698,9 +675,7 @@ Technique de manipulation où une entreprise ou une organisation crée de faux m
 
 Exemple : Une entreprise créant de faux comptes de réseaux sociaux pour promouvoir positivement ses produits et services.
 
-# Glossaire de Cybersécurité 🔒
-
-## Cyberattaques
+## Cyberattaques 🔒
 
 ### Attaques par le réseau
 
@@ -752,9 +727,7 @@ Technique pour contourner les contrôles d'accès réseau (Network Access Contro
 
 Exemple : Utiliser une adresse MAC autorisée pour obtenir un accès réseau non autorisé.
 
-# Glossaire de Cybersécurité 🔒
-
-## Cyberattaques
+## Cyberattaques 🔒
 
 ### Attaques sur les applications Web
 
@@ -808,9 +781,7 @@ Attaque où l'attaquant accède à des objets (fichiers, données) sans autorisa
 
 Exemple : Modifier l'URL de `/profile?id=123` à `/profile?id=124` pour accéder au profil d'un autre utilisateur.
 
-# Glossaire de Cybersécurité 🔒
-
-## Cyberattaques
+## Cyberattaques 🔒
 
 ### Attaques sur les Systèmes
 
@@ -854,9 +825,7 @@ Attaque où l'attaquant modifie le contenu visuel d'un site web pour afficher de
 
 Exemple : Remplacer la page d'accueil d'un site web par un message politique ou de revendication.
 
-# Glossaire de Cybersécurité 🔒
-
-## Cyberattaques
+## Cyberattaques 🔒
 
 ### Attaques physiques / Attaques sur le matériel
 
@@ -1068,9 +1037,9 @@ Ajout de données géographiques (latitude et longitude) à des fichiers multim�
 
 Exemple : Une photo prise avec un smartphone inclut automatiquement les coordonnées GPS du lieu où elle a été prise.
 
-# Les Outils de Cybersécurité
+# Les Outils de Cybersécurité 🔒
 
-## Introduction 🔒
+## Introduction 🛠️
 
 ### Nmap
 Outil de balayage de réseau et de sécurité pour découvrir des hôtes et des services sur un réseau informatique.
