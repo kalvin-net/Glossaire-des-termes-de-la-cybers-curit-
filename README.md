@@ -296,7 +296,7 @@ Responsable de la protection des données au sein d'une organisation, garantissa
 
 Exemple : Un DPO veille à ce que l'entreprise respecte le RGPD et protège les données personnelles des clients.
 
-## ☁️ 🎯 Sécurité Cloud
+## ☁️ Sécurité Cloud
 
 ### Cloud Access Security Brokers (CASB)
 Solutions de sécurité placées entre les utilisateurs et les services cloud pour appliquer les politiques de sécurité de l'entreprise.
