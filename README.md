@@ -77,7 +77,9 @@ Technique où l'attaquant se fait passer pour une personne de confiance pour obt
 
 Exemple : Un attaquant se fait passer pour un employé de la maintenance pour accéder à des zones sécurisées.
 
-## 🛠 Techniques d’Exploitation
+# Glossaire de Cybersécurité 🔒
+
+## 🛠️ Techniques d’Exploitation
 
 ### Buffer Overflow
 Vulnérabilité où un programme écrit plus de données dans un tampon que ce qu'il peut contenir, permettant l'exécution de code malveillant.
@@ -94,7 +96,9 @@ Vulnérabilité permettant à un attaquant d'exécuter du code à distance sur u
 
 Exemple : Exploitation d'une faille dans une application web pour exécuter des commandes sur le serveur.
 
-## 🌐 Phases d’attaque
+## 🎯 Phases d’attaque
+
+![Phases d'attaque](images/phases_attaque.png)
 
 ### Reconnaissance
 Collecte d'informations sur la cible pour identifier les vulnérabilités potentielles.
