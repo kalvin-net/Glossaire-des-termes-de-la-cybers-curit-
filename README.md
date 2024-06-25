@@ -841,24 +841,9 @@ Attaque où un attaquant ayant un accès physique à un appareil non surveillé 
 
 Exemple : Installer un logiciel espion sur un ordinateur portable laissé sans surveillance dans une chambre d'hôtel.
 
-### Attaques avancées et persistantes
-
-#### Advanced Persistent Threat (APT)
-Attaque prolongée et ciblée où l'attaquant reste dans le système pour collecter des données sensibles.
-
-Exemple : Un groupe de cyberespionnage s'infiltre dans le réseau d'une entreprise pour voler des informations stratégiques sur une longue période.
-
-#### Watering Hole Attack
-Attaque où l'attaquant compromet un site web fréquenté par les cibles potentielles pour les infecter avec des logiciels malveillants.
-
-Exemple : Infecter un site web populaire parmi les employés d'une entreprise pour cibler ces employés spécifiquement.
-
-#### Supply Chain Attack
-Attaque où l'attaquant compromet un fournisseur ou un partenaire pour atteindre sa cible finale.
-
 Exemple : Infecter un logiciel fourni par un tiers de confiance pour accéder aux systèmes des clients qui l'installent.
 
-## Attaques avancées et persistantes
+## 🎯Attaques avancées et persistantes
 
 ### Advanced Persistent Threat (APT)
 Attaque prolongée et ciblée par un groupe sophistiqué visant à s'infiltrer dans un réseau pour collecter des données sensibles ou causer des dommages sur une longue période.
