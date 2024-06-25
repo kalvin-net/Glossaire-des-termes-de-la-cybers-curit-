@@ -431,7 +431,7 @@ Mesures et stratégies mises en place pour sécuriser les infrastructures publiq
 
 Exemple : Mise en place de pare-feu et de systèmes de détection d'intrusion pour protéger un réseau de distribution d'eau contre des attaques cybernétiques.
 
-## Sécurité des opérations de sécurité - SecOps
+## 🎯Sécurité des opérations de sécurité - SecOps
 
 ### Automatisation et Orchestration de la sécurité (SOAR)
 Solutions intégrées permettant d'automatiser et d'orchestrer les réponses aux incidents de sécurité.
@@ -616,9 +616,7 @@ Ensemble de logiciels malveillants qui permettent un accès non autorisé à un 
 
 Exemple : Un rootkit qui se cache dans le système d'exploitation pour éviter la détection par les logiciels de sécurité.
 
-## 🎯 Cyberattaques 🔒
-
-### Attaques de Phishing et d'ingénierie Sociale
+### 🎯Attaques de Phishing et d'ingénierie Sociale🔒
 
 #### Phishing
 Technique de fraude visant à obtenir des informations sensibles en se faisant passer pour une entité de confiance via des emails ou des sites web.
