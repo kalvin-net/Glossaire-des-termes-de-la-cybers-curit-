@@ -1,9 +1,9 @@
 # Glossaire (plus ou moins exhaustif) des différents termes de la cybersécurité ! 🔒
 
-## 🛡️ ~~Sécurité Offensive~~
+## 🛡️ Sécurité Offensive
 La sécurité offensive est une approche proactive de la cybersécurité qui vise à identifier et corriger les vulnérabilités des systèmes informatiques avant qu'elles ne soient exploitées par les attaquants.
 
-Exemple : Réalisation de tests de pénétration (pentests) pour évaluer la sécurité d'un réseau.
+\- Exemple : Réalisation de tests de pénétration (pentests) pour évaluer la sécurité d'un réseau.
 
 ## 🎯 Surface d’attaque
 Ensemble des points d’entrée possibles par lesquels un attaquant peut tenter de pénétrer un système.
