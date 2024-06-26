@@ -8,12 +8,12 @@ La sécurité offensive est une approche proactive de la cybersécurité qui vis
 ## 🎯 Surface d’attaque
 Ensemble des points d’entrée possibles par lesquels un attaquant peut tenter de pénétrer un système.
 
-Exemple : Ports ouverts sur un serveur, interfaces de connexion.
+* Exemple : Ports ouverts sur un serveur, interfaces de connexion.
 
 ## 💥 Exploitation
 Processus d'utilisation de vulnérabilités dans un système pour en prendre le contrôle ou en extraire des données.
 
-Exemple : Utilisation d'un exploit pour obtenir un accès non autorisé à un système.
+* Exemple : Utilisation d'un exploit pour obtenir un accès non autorisé à un système.
 
 ## ⛓️ Kill Chain
 Modèle décrivant les différentes étapes suivies par un attaquant lors d'une intrusion informatique. Ces phases incluent :
