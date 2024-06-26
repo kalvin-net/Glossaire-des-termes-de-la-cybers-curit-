@@ -1,5 +1,3 @@
-![Terme de la Cybersécurité](https://www.kaspersky.com/blog/news_previewing_black_hat_2014/5592/).
-
 # Glossaire (plus ou moins exhaustif) des différents termes de la cybersécurité ! 🔒
 
 ## 🛡️ *Sécurité Offensive*
