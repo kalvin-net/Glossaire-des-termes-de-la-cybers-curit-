@@ -13,7 +13,7 @@ Ensemble des points d’entrée possibles par lesquels un attaquant peut tenter 
 ## 💥 Exploitation
 Processus d'utilisation de vulnérabilités dans un système pour en prendre le contrôle ou en extraire des données.
 
-* Exemple : Utilisation d'un exploit pour obtenir un accès non autorisé à un système.
+- Exemple : Utilisation d'un exploit pour obtenir un accès non autorisé à un système.
 
 ## ⛓️ Kill Chain
 Modèle décrivant les différentes étapes suivies par un attaquant lors d'une intrusion informatique. Ces phases incluent :
