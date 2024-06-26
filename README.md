@@ -1,4 +1,4 @@
-![Terme de la Cybersécurité]([[https://www.google.com/search?sca_esv=ee0252779c48c2ea&sca_upv=1&sxsrf=ADLYWILcxvIW4cs3Qj7DVSL5T4kTaaQE_Q:1719389225671&q=black+hat&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCJQtmEkU6i-_BMZgWHB0gXD4qt67OEQKmKHtgAPLYm0tErCiExUsbSS3UJLSJMb2Yy1vUr26EWhW9EpJoxvn4tP_ZXJ7acrvLYzsfufHoSvjwIkZ_jylXKa9r9xfckvqaeT8mNqU_VkVXPKSeLjRO-AJYtnq&sa=X&ved=2ahUKEwjdi5uA6PiGAxV7UaQEHVyEAY4QtKgLegQIDBAB&biw=1488&bih=742&dpr=1.25#vhid=kj2O4QIB1O3LMM&vssid=mosaic](https://www.kaspersky.com/blog/news_previewing_black_hat_2014/5592/)](https://www.kaspersky.com/blog/news_previewing_black_hat_2014/5592/)).
+![Terme de la Cybersécurité](https://www.kaspersky.com/blog/news_previewing_black_hat_2014/5592/).
 
 # Glossaire (plus ou moins exhaustif) des différents termes de la cybersécurité ! 🔒
 
