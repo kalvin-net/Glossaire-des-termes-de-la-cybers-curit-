@@ -1160,5 +1160,8 @@ Outil de mise en réseau polyvalent pour lire et écrire des données sur des co
 
 Exemple : Utiliser Netcat pour établir une connexion de reverse shell avec un serveur compromis.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kalin-net)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalvin-net&show_icons=true)  
 
 
